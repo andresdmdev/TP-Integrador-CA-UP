@@ -2,8 +2,7 @@
 
 **Integrantes:**
 - Andres David Marquez Fortique
-- Evangelina Mendez
-
+- Evangelina Mendez [TP-Integrador](https://github.com/EvMend/TP-Integrador)
 ---
 
 ## 1. Configuración del entorno
