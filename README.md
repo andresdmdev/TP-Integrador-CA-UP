@@ -179,7 +179,7 @@ Características del script:
  - Backupea directorios incluyendo la fecha en formato ANSI (ej: log_bkp_20240302.tar.gz).
  - Almacena los backups en la partición montada /backup_dir.
  - Acepta argumentos de origen (qué backupear) y destino (dónde backupear).
- - Incluye una opción de ayuda (--help).
+ - Incluye una opción de ayuda (--help y -h).
  - Valida que los sistemas de archivos de origen y destino estén disponibles antes de ejecutar el backup.
 
 Automatización (Cronjobs):
